@@ -243,3 +243,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+#My entorn
+*.png
